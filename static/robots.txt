@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Disallow: /api/
+
+Sitemap: https://cristianporco.it/app/convertitore-batch-di-file-eml-in-pdf-con-estrazione-allegati/sitemap.xml
